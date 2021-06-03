@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <section>
     <div
       class="overflow-hidden duration-500"
       :class="isMenuOpened ? 'max-h-screen' : 'max-h-0'"
@@ -17,10 +17,11 @@
         "
       >
         <div class="w-full md:w-2/6">
-          <p class="mt-2">
+          <p v-if="$store.state.data.header.note" class="mt-2">
             {{ $store.state.data.header.note }}
           </p>
           <a
+            v-if="$store.state.data.header.email"
             class="font-medium"
             :href="`mailto:${$store.state.data.header.email}`"
             >{{ $store.state.data.header.email }}</a
@@ -73,7 +74,7 @@
         <HeaderMenuIcon v-model="isMenuOpened" />
       </div>
     </div>
-  </div>
+  </section>
 </template>
 
 <script>
