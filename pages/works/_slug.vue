@@ -2,7 +2,13 @@
   <section class="text-gray-800 dark:text-gray-100 body-font overflow-hidden">
     <ClientOnly>
       <CoolLightBox
-        :items="data.media.filter((m) => !m.src.includes('cover'))"
+        :items="
+          data.media
+            .filter((m) => !m.src.includes('cover'))
+            .map((m) => {
+              return { ...m, src: $router.options.base + m.src }
+            })
+        "
         :index="index"
         @close="index = null"
       >
@@ -33,6 +39,7 @@
           :style="{
             backgroundImage:
               'url(' +
+              $router.options.base +
               (data.media_type === 'video' ? image.thumb : image.src) +
               ')',
           }"

@@ -29,7 +29,8 @@
         <div
           class="absolute inset-0 bg-cover bg-no-repeat bg-center"
           :style="{
-            backgroundImage: 'url(' + work.media[0].src + ')',
+            backgroundImage:
+              'url(' + $router.options.base + work.media[0].src + ')',
           }"
         ></div>
         <div
