@@ -1,0 +1,46 @@
+name: Capen Tj.Makmur
+slug: capen-tj-makmur
+category: Web/App
+media_type: image
+media:
+  - src: /img/works/capen-tj-makmur/cover.png
+    title: capen-tj-makmur-cover
+    description:
+  - src: /img/works/capen-tj-makmur/1.png
+    title: capen-tj-makmur-1
+    description:
+  - src: /img/works/capen-tj-makmur/2.png
+    title: capen-tj-makmur-2
+    description:
+  - src: /img/works/capen-tj-makmur/3.png
+    title: capen-tj-makmur-3
+    description:
+  - src: /img/works/capen-tj-makmur/4.png
+    title: capen-tj-makmur-4
+    description:
+  - src: /img/works/capen-tj-makmur/5.png
+    title: capen-tj-makmur-5
+    description:
+  - src: /img/works/capen-tj-makmur/6.png
+    title: capen-tj-makmur-6
+    description:
+  - src: /img/works/capen-tj-makmur/7.png
+    title: capen-tj-makmur-7
+    description:
+  - src: /img/works/capen-tj-makmur/8.png
+    title: capen-tj-makmur-8
+    description:
+  - src: /img/works/capen-tj-makmur/8.png
+    title: capen-tj-makmur-9
+    description:
+did:
+  - UI/UX Design
+  - Logo Design
+  - Server Setup, Containered using Docker
+  - Frontend Development
+  - Backend Development
+  - A/B Testing
+  - Maintenance
+description: |
+  Capen (Catatan Kependudukan) Tj. Makmur is a desktop application that is used as a database of population records in Tanjung Makmur Village, located in Tebing Tinggi District, Empat Lawang Regency.
+  Some of the features embedded in this application include: Full CRUD population data and family card data, filters, social assistance recipients, Role-Based Access Control, Activity Logs, etc.

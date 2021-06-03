@@ -1,0 +1,18 @@
+name: Nuxt Appwrite
+slug: nuxt-appwrite
+category: Lib/Module
+media_type: image
+media:
+  - src: /img/works/nuxt-appwrite/1.png
+    title: nuxt-appwrite-1
+    description:
+did:
+  - Code
+  - Test
+  - Build
+  - Documentation
+description: |
+  Nuxt is a popular web-based frontend framework built on top of Vue.JS, and Appwrite itself is a secure Open-Source backend server.
+  Nuxt-Appwrite is a Nuxt Module which is intended to facilitate the integration of Nuxt and Appwrite as a backend in the application development process. In simple terms, this module packs Appwrite's 2 SDKs, namely web-sdk and nodejs-sdk, into a single npm package which is easy to activate and configure in Nuxt.
+links:
+  - https://www.github.com/hrdtr/nuxt-appwrite

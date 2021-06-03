@@ -1,0 +1,21 @@
+name: SewaJasJogja
+slug: sewajasjogja
+category: Web/App
+media_type: image
+media:
+  - src: /img/works/sewajasjogja/cover.png
+    title: sewajasjogja-cover
+    description:
+  - src: /img/works/sewajasjogja/1.png
+    title: sewajasjogja-1
+    description:
+did:
+  - Design
+  - CMS
+  - Deployment
+description: |
+  Sewajasjogja is a rental of suits and other formal clothes located in Yogyakarta, this website was created as an online marketing tool.
+  This site is made using Ghost CMS, the Ghost theme used from this site is tailored to the wishes of the client. Clients can freely manage content on this site through the Ghost Admin Area.
+links:
+  - https://sewajasjogja.com/
+  - https://www.instagram.com/sewajasjogja

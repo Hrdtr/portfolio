@@ -1,0 +1,22 @@
+name: Lava Tour Merapi Adventure
+slug: lavatourmerapi-adventure
+category: Web/App
+media_type: image
+media:
+  - src: /img/works/lavatourmerapi-adventure/cover.png
+    title: lavatourmerapi-adventure-cover
+    description:
+  - src: /img/works/lavatourmerapi-adventure/1.png
+    title: lavatourmerapi-adventure-1
+    description:
+did:
+  - Design
+  - Frontend Development
+  - Backend Development
+  - CMS
+  - Deployment
+description: |
+  Lava Tour Merapi Adventure is a tourist agency based in Yogyakarta, this website was created as an online marketing tool. The concept of this site was requested by the client with several design revisions submitted, finally this site is online.
+  This site was created using the Nuxt framework and ExpressJS as it Backend, the content of this site can be added and edited through the admin area that I have created. Some of the features embedded in the admin area include editing content, tour package management and image asset management.
+links:
+  - https://lavatourmerapi-adv.online/

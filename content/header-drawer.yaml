@@ -1,0 +1,10 @@
+navigation:
+  - name: Home
+    path: /
+  # - name: About Me
+  #   path: /about-me
+  - name: Contact
+    path: 'mailto:hrdtr@cognitive.id'
+note: |
+  Want to work with me? Let's boogie.
+email: hrdtr@cognitive.id

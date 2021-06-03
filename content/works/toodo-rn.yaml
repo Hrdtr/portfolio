@@ -1,0 +1,20 @@
+name: Toodo React Native
+slug: toodo-rn
+category: Design
+media_type: image
+media:
+  - src: /img/works/toodo-rn/cover.png
+    title: toodo-rn-cover
+    description:
+  - src: /img/works/toodo-rn/1.jpg
+    title: toodo-rn-1
+    description:
+  - src: /img/works/toodo-rn/2.jpg
+    title: toodo-rn-2
+    description:
+did:
+  - UI/UX Design
+  - Frontend Development
+  - Backend Development
+description: |
+  This is a simple mobile app built with react native and firebase. This app use firebase auth for authentication process and firestore for database.

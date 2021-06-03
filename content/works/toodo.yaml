@@ -1,0 +1,40 @@
+name: Toodo
+slug: toodo
+category: Web/App
+media_type: image
+media:
+  - src: /img/works/toodo/cover.png
+    title: toodo-cover
+    description:
+  - src: /img/works/toodo/1.png
+    title: toodo-1
+    description:
+  - src: /img/works/toodo/2.png
+    title: toodo-2
+    description:
+  - src: /img/works/toodo/3.png
+    title: toodo-3
+    description:
+  - src: /img/works/toodo/4.png
+    title: toodo-4
+    description:
+  - src: /img/works/toodo/5.png
+    title: toodo-5
+    description:
+  - src: /img/works/toodo/6.png
+    title: toodo-6
+    description:
+  - src: /img/works/toodo/7.png
+    title: toodo-7
+    description:
+did:
+  - UI/UX Design
+  - Frontend Development
+  - Backend Development
+  - Testing
+links:
+  - https://toodo-app.cognitive.id/
+description: |
+  Toodo is a mobile application that is useful for logging the tasks of each project that the user is currently running, all data stored in the cloud using appwrite as a backend. For the frontend itself, Toodo is made using the Ionic 4 framework. This project is a personal project and was completed in 2 days.
+  Some of the features embedded in it include: account authentication, project management, task management, task completion and dark mode.
+  This project has access to the PWA version found in the links section of this page. I provide a demo account to the public with email: demo@toodo-app.cognitive.id, and password: demo1234

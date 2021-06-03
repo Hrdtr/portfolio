@@ -1,0 +1,22 @@
+name: Universal Coconut
+slug: universal-coconut
+category: Web/App
+media_type: image
+media:
+  - src: /img/works/universal-coconut/cover.png
+    title: universal-coconut-cover
+    description:
+  - src: /img/works/universal-coconut/1.png
+    title: universal-coconut-1
+    description:
+did:
+  - Design
+  - Frontend Development
+  - Backend Development
+  - CMS
+  - Deployment
+description: |
+  This is a landing page used by Universal Coconut Company to land their Product. This landing page is currently online.
+  This landing page was created using the Nuxt framework and Firebase as it Backend, the content of this site can be added and edited through the admin area that I have created. Some of the features embedded in the admin area include editing content, tour package management and image asset management.
+links:
+  - https://universal-coconut.net/

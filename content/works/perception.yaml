@@ -1,0 +1,23 @@
+name: Perception
+slug: perception
+category: Video
+media_type: video
+media:
+  - src: /img/works/perception/cover.png
+    title: perception-cover
+    description:
+  - src: https://www.youtube.com/watch?v=WDonh9ELnNw
+    thumb: /img/works/perception/1.png
+    title: perception-1
+    description:
+did:
+  - Concept
+  - Storyboard
+  - Talent Acquisition
+  - Take
+  - Edit
+  - Publish
+description: |
+  Perception is the title of a short video that I made which was originally intended to fulfill my coursework. This video is about how people's perceptions can change with just a little treatment applied to a beggar on the side of the road.
+  The footage was taken around KM.0 Yogyakarta and assisted by some of my friends. The camera used in this video is a Lumix DMC-G7 with 4K resolution.
+  In this video there are several defects, including too much noise due to the limitations of the camera used to capture footage in low light conditions, and the video looks blurry when the camera moves, because I don't have a stabilizer or gimbal and then apply a wrap stabilizer effect in editing.

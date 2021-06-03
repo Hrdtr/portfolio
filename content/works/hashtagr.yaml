@@ -1,0 +1,18 @@
+name: Hashtagr
+slug: hashtagr
+category: Design
+media_type: image
+media:
+  - src: /img/works/hashtagr/cover.png
+    title: hashtagr-cover
+    description:
+  - src: /img/works/hashtagr/1.png
+    title: hashtagr-1
+    description:
+  - src: /img/works/hashtagr/2.png
+    title: hashtagr-2
+    description:
+did:
+  - UI/UX Design
+description: |
+  This is design concept of simple application for creating twibboned campaign foto easier. This Interaction Design was made using Figma.
