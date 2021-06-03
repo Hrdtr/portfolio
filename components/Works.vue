@@ -1,6 +1,6 @@
 <template>
   <div class="_section works">
-    <div class="px-5 _tabs">
+    <div class="mx-5 _tabs overflow-x-auto">
       <span
         v-for="(tab, i) in tabs"
         :key="i"
@@ -38,31 +38,33 @@
             absolute
             inset-0
             bg-black
-            opacity-0
-            group-hover:opacity-100
-            bg-opacity-75
+            opacity-100
+            group-hover:opacity-0
+            bg-opacity-25
+            cursor-pointer
           "
+          @click="$router.push(`/works/${work.slug}`)"
         >
           <div
             class="
               flex flex-col
               items-center
-              justify-center
+              justify-end
               w-full
               h-full
-              mt-4
+              pb-12
               text-center
             "
           >
             <p class="text-white text-lg px-4">{{ work.name }}</p>
-            <div class="mt-4">
+            <!-- <div class="mt-4">
               <button
                 class="_btn _btn-primary"
                 @click="$router.push(`/works/${work.slug}`)"
               >
                 Learn More
               </button>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
