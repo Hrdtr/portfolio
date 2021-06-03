@@ -1,8 +1,12 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+
   router: {
     base: '/portofolio',
+  },
+  generate: {
+    fallback: true,
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
