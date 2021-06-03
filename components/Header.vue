@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <div>
     <div
       class="overflow-hidden duration-500"
       :class="isMenuOpened ? 'max-h-screen' : 'max-h-0'"
@@ -73,7 +73,7 @@
         <HeaderMenuIcon v-model="isMenuOpened" />
       </div>
     </div>
-  </section>
+  </div>
 </template>
 
 <script>

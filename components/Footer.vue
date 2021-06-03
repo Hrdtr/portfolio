@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100 -mt-12"
-  >
+  <div class="-mt-12">
     <div
       class="
         container
