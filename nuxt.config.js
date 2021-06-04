@@ -3,7 +3,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/portofolio',
+    base: '/portfolio',
   },
   generate: {
     fallback: true,
